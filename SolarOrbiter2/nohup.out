@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/home/tomruge/Schreibtisch/UNI/Solar_Orbiter/plot_STEP.py", line 4, in <module>
+    from Hausarest.STEP import STEP
+  File "/home/tomruge/Schreibtisch/UNI/Solar_Orbiter/Hausarest/STEP.py", line 9, in <module>
+    import mag
+  File "/home/tomruge/Schreibtisch/UNI/Solar_Orbiter/mag.py", line 13, in <module>
+    from cdflib import CDF,cdfepoch
+ModuleNotFoundError: No module named 'cdflib'
+Traceback (most recent call last):
+  File "/home/tomruge/Schreibtisch/UNI/Solar_Orbiter/plot_STEP.py", line 4, in <module>
+    from Hausarest.STEP import STEP
+  File "/home/tomruge/Schreibtisch/UNI/Solar_Orbiter/Hausarest/STEP.py", line 9, in <module>
+    import mag
+  File "/home/tomruge/Schreibtisch/UNI/Solar_Orbiter/mag.py", line 13, in <module>
+    from cdflib import CDF,cdfepoch
+ModuleNotFoundError: No module named 'cdflib'
